@@ -49,5 +49,9 @@ body {
 
 .container {
     display: flex;
-    flex-direction: row;
+
+    /* default is row*/
+    /* flex-direction: row;  */
+
+    
 }
