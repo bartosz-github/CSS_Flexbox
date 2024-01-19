@@ -53,5 +53,6 @@ body {
     /* default is row*/
     /* flex-direction: row;  */
 
-    
+    /* default is flex-start*/
+    justify-content: flex-end;
 }
