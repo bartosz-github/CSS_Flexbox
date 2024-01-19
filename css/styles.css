@@ -54,5 +54,5 @@ body {
     /* flex-direction: row;  */
 
     /* default is flex-start*/
-    justify-content: space-between;
+    justify-content: space-around;
 }
