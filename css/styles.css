@@ -24,8 +24,21 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    
+}
 
+.container {
+    width: 80;
+    height: 700px;
+    margin: 0 auto;
+    border: 10px solid var(--clr-dark);
+}
+
+.item {
+    width: 150px;
+    height: 150px;
+    background-color: #fb7185;
+    padding: 1em;
+    
 }
 
 .container {
