@@ -56,8 +56,6 @@ body {
     /* default is flex-start*/
     justify-content: space-evenly;
 
-    align-items: center;
-
-    /* finto at-o 02:04 */
+    align-items: baseline;
 
 }
