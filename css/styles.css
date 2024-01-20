@@ -54,9 +54,11 @@ body {
     flex-direction: column;
 
     /* default is flex-start*/ 
+/*    
     justify-content: space-evenly;
 
     align-items: flex-start;
+*/
 }
 /*
 .item-1 {
