@@ -51,7 +51,7 @@ body {
     display: flex;
 
     /* default is row*/
-    flex-direction: row;
+    flex-direction: column;
 
     /* default is flex-start*/ 
     justify-content: space-evenly;
