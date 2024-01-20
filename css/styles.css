@@ -51,9 +51,9 @@ body {
     display: flex;
 
     /* default is row*/
-    /* flex-direction: row;  */
+    flex-direction: row;
 
-    /* default is flex-start*/
+    /* default is flex-start*/ 
     justify-content: space-evenly;
 
     align-items: flex-start;
