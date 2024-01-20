@@ -61,6 +61,7 @@ body {
 */
     flex-wrap: wrap;
     align-content: flex-start;
+    gap: 1em;
 }
 /*
 .item-1 {
