@@ -60,7 +60,7 @@ body {
     align-items: flex-start;
 */
     flex-wrap: wrap;
-    align-content: center;
+    align-content: space-between;
 }
 /*
 .item-1 {
