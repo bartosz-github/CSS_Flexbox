@@ -51,7 +51,7 @@ body {
     display: flex;
 
     /* default is row*/
-    flex-direction: column;
+    /* flex-direction: column; */
 
     /* default is flex-start*/ 
 /*    
@@ -64,8 +64,10 @@ body {
     /* gap: 2em; */
 
 }
-/*
-.item-1 {
+/* .item-1 {
     font-size: 1.5rem;
+} */
+
+.item-3 {
+    flex-grow: 1;
 }
-*/
