@@ -60,8 +60,8 @@ body {
     align-items: flex-start;
 */
     flex-wrap: wrap;
-    align-content: flex-start;
-    gap: 1em;
+    align-content: space-between;
+    gap: 10em;
 }
 /*
 .item-1 {
