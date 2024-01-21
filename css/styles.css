@@ -49,10 +49,20 @@ body {
 .container {
     display: flex;
 
-    align-items: flex-end;
+    align-items: flex-start;
 }
 
 .item-1 {
     font-size: 1.5rem;
     background-color: yellowgreen;
+}
+
+.item-2 {
+    font-size: 1.5rem;
+    background-color: greenyellow;
+}
+
+.item-3 {
+    font-size: 1.5rem;
+    background-color: limegreen;
 }
