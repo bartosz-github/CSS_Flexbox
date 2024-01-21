@@ -72,7 +72,7 @@ body {
     /* flex-shrink: 1; */
     /* flex-basis: 300px; */
     /* flex: 1; */
-    align-self: center;
+    align-self: flex-start;
 }
 /*
 .item-2 {
