@@ -67,12 +67,13 @@ body {
     font-size: 1.5rem;
 } */
 
-.item-1 {
+.item-3 {
     /* flex-grow: 1; */
     /* flex-shrink: 1; */
     /* flex-basis: 300px; */
     /* flex: 1; */
-    align-self: flex-start;
+    /* align-self: baseline; */
+    order: -1;
 }
 /*
 .item-2 {
